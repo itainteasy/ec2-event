@@ -26,6 +26,10 @@ ec2.on('running', function(data) {
   ec2.terminate();
 });
 
+ec2.on('terminated', function(data) {
+  console.log('terminated');
+});
+
 ec2.start()
 
 ```
