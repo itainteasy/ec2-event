@@ -1,6 +1,7 @@
 ## Usage
 
 ```javascript
+var EC2 = require('ec2-event');
 var AWS = require('aws-sdk');
 var _ = require('underscore');
 var awsConfig = {
