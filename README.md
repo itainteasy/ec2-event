@@ -1,3 +1,14 @@
+# ec2-event
+
+[![NPM](https://nodei.co/npm/ec2-event.png?downloads=true&downloadRank=true)](https://nodei.co/npm/ec2-event/)
+[![NPM](https://nodei.co/npm-dl/ec2-event.png?months=6&height=3)](https://nodei.co/npm/ec2-event/)
+
+## Installation
+
+```bash
+npm install ec2-event
+```
+
 ## Usage
 
 ```javascript
