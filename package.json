@@ -11,7 +11,7 @@
     "AWS",
     "events"
   ],
-  "author": "jlburkhead",
+  "author": "lausan <jakelauburkhead@gmail.com>",
   "license": "BSD-2-Clause",
   "dependencies": {
     "aws-sdk": "~2.0.5",
@@ -20,6 +20,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jlburkhead/ec2-event.git"
+    "url": "https://github.com/lausan/ec2-event.git"
   }
 }
