@@ -1,6 +1,6 @@
 {
   "name": "ec2-event",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Wrappers for aws-sdk's EC2 with events",
   "main": "index.js",
   "scripts": {
